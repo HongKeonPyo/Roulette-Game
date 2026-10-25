@@ -1,0 +1,6 @@
+{
+  "name": "룰렛 게임기 (Lucky Roulette)",
+  "description": "원하는 항목과 당첨 확률을 자유롭게 설정할 수 있는 고성능 룰렛 게임기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
